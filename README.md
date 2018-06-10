@@ -5,6 +5,7 @@ Argue 2 advantages of Git DVCS over Dropbox:
 
 	Created Barebones of question1.html document
 	First draft of Answer to question 1 composed.
+	Spell check for quesiton1.html
 Question 2:
 Compare CLI vs. GUI clients for working with Git:
 
@@ -18,3 +19,4 @@ Review 3 different GUI Git clients:
 .gitignore file created and rules added
 Created Github issue #1 and resolved it with another branch. Branch deleted later on
 Created second issue and fixed it with commit command.
+
