@@ -16,3 +16,4 @@ Review 3 different GUI Git clients:
 	Created Barebones of question3.html document
 	
 .gitignore file created and rules added
+Created Github issue and resolved it with another branch.
