@@ -6,6 +6,7 @@ Argue 2 advantages of Git DVCS over Dropbox:
 	Created Barebones of question1.html document
 	First draft of Answer to question 1 composed.
 	Spell check for quesiton1.html
+	Centered Heading 1
 Question 2:
 Compare CLI vs. GUI clients for working with Git:
 
