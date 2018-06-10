@@ -9,7 +9,7 @@ Question 2:
 Compare CLI vs. GUI clients for working with Git:
 
 	Created Barebones of question2.html document
-
+	First draft of answer to question 2 composed.
 Question 3:
 Review 3 different GUI Git clients:
 
