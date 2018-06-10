@@ -1,4 +1,5 @@
-# web3-git-questions
+# Syed Rizvi B00107998
+# Steps taken to create the Git Story
 
 Question 1:
 Argue 2 advantages of Git DVCS over Dropbox:
