@@ -1,4 +1,5 @@
-# web3-git-questions
+# Alternative_answer branch created
+in this branch text has be italicized and made bold in question3.html file.
 
 Question 1:
 Argue 2 advantages of Git DVCS over Dropbox:
@@ -24,4 +25,5 @@ Review 3 different GUI Git clients:
 .gitignore file created and rules added
 Created Github issue #1 and resolved it with another branch. Branch deleted later on
 Created second issue and fixed it with commit command.
+
 
