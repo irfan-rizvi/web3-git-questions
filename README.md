@@ -11,6 +11,7 @@ Compare CLI vs. GUI clients for working with Git:
 
 	Created Barebones of question2.html document
 	First draft of answer to question 2 composed.
+	Spell Check complete for question2.html
 Question 3:
 Review 3 different GUI Git clients:
 
