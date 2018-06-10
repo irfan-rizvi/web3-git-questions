@@ -16,7 +16,8 @@ Question 3:
 Review 3 different GUI Git clients:
 
 	Created Barebones of question3.html document
-	
+	First draft created for answer to question 3. (forgot to mention it earlier)
+	Spell Check complete for quesiton3.html file	
 .gitignore file created and rules added
 Created Github issue #1 and resolved it with another branch. Branch deleted later on
 Created second issue and fixed it with commit command.
