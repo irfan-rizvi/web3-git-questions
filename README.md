@@ -26,3 +26,6 @@ Review 3 different GUI Git clients:
 Created Github issue #1 and resolved it with another branch. Branch deleted later on
 Created second issue and fixed it with commit command.
 
+Created gh-pages branch. Inserted hypelinks in each page.
+Ready to public on Github Pages.
+
