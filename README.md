@@ -1,5 +1,7 @@
 # Alternative_answer branch created
 in this branch text has be italicized and made bold in question3.html file.
+Link to live website on Github pages under gh-pages branch:
+https://irfan-rizvi.github.io/web3-git-questions/
 
 Question 1:
 Argue 2 advantages of Git DVCS over Dropbox:
